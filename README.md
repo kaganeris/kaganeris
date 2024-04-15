@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Microservices,Redis,SignalR,Docker Container**
 
-- 👯 I’m looking to collaborate on [JinjiShop](https://github.com/kaganeris/JinjiProject)
-
 - 💬 Ask me about **asp.net mvc,web api,react**
 
 - 📫 How to reach me **kaan.ers@hotmail.com**
