@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaganeris" alt="kaganeris" /></a> </p>
 
-- 🔭 I’m currently working on [BAExamApp](https://github.com/kaganeris/BAExamApp)
+- 🔭 I’m currently working on Parafax
 
 - 🌱 I’m currently learning **Microservices,Redis,SignalR,Docker Container**
 
